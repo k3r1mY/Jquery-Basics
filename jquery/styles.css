@@ -1,0 +1,26 @@
+body {
+  background-color: lightslategrey;
+}
+
+.big-title {
+  font-size: 10rem;
+  color: brown;
+  font-family: cursive;
+}
+.color-changeR {
+  color: blueviolet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 10rem;
+}
+
+.color-changeE {
+  color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10rem;
+}
+
+.color-changeD {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10rem;
+}
